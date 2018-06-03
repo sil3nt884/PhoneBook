@@ -6,6 +6,8 @@
 3. install java (https://java.com/en/download/)
 4. check \target folder
 5. run PhoneBook-0.0.1-SNAPSHOT-jar-with-dependencies.jar
-6 go to localhost on your browser
+6 copy web folder to the same location as the jar file.
+7. go to localhost on your browser
+
 
 </pre>
